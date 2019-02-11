@@ -3,8 +3,7 @@ layout: cv
 title: Aina's cv
 ---
 # Aina Anjary Fenomamy R.
-Physicist, Mathematician, Cambridge professor.
-
+Computer Science
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
